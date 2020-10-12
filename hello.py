@@ -1,1 +1,1 @@
-print("Hello World");
+print([s for s in 'Nikhil' if s!='i'])
