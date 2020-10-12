@@ -1,1 +1,1 @@
-print(*[s for s in 'Nikhil' if s!='i'])
+print(*sorted([s for s in 'Nikhil' if s!='i']))
